@@ -1,0 +1,28 @@
+body {
+  background: #537895;
+}
+button{ margin : 10px;
+
+background: #537895;
+color: #ffff;
+padding: 5px 10px;
+border: #537896; }
+
+h2 {
+  text-transform: capitalize;
+}
+ul {
+  list-style: none;
+  text-align: center;
+  padding: 0;
+}
+li {
+  display: inline;
+  margin: 0 30px;
+}
+ 
+.button {
+  background: #ffff;
+  color: #537895;
+
+ }
